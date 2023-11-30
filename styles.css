@@ -1,2 +1,10 @@
+/* Add any styling for the image container if needed */
+.animal-container {
+  text-align: center; /* Center the image */
+  margin-top: 20px; /* Add some top margin for spacing */
+}
 
-/* Your CSS Code here. */
+/* Add any additional styles for the image itself */
+.animal-container img {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+}
